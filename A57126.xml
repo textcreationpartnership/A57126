@@ -1,0 +1,315 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preached at the funeral of the Right Honourable Denzell Lord Holles ... by Samuel Rayner ...</title>
+            <author>Reyner, Samuel, b. 1622 or 3.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 37 KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A57126</idno>
+            <idno type="STC">Wing R1233</idno>
+            <idno type="STC">ESTC R15340</idno>
+            <idno type="EEBO-CITATION">13029340</idno>
+            <idno type="OCLC">ocm 13029340</idno>
+            <idno type="VID">96723</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A57126)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 96723)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 399:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preached at the funeral of the Right Honourable Denzell Lord Holles ... by Samuel Rayner ...</title>
+                  <author>Reyner, Samuel, b. 1622 or 3.</author>
+               </titleStmt>
+               <extent>[2], 28 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for William Churchill ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1680.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+                  <note>Marginal notes.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Holles, Denzil Holles, --  Baron, 1599-1680.</term>
+               <term>Church of England --  Sermons.</term>
+               <term>Funeral sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-05</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2011-05</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="frontispiece">
+            <pb facs="tcp:96723:1"/>
+            <p>
+               <figure>
+                  <q>SPES AUDACES ADJUVAT</q>
+                  <figDesc>Holles coat of arms</figDesc>
+               </figure>
+            </p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:96723:1" rendition="simple:additions"/>
+            <p>A SERMON PREACHED AT THE FUNERAL OF THE Right Honourable Denzell LORD Holles, BARON HOLLES of <hi>Ifield</hi> in SUSSEX, Lord High Steward of the Honors, Man<g ref="char:EOLhyphen"/>nors, and Revenues of the QUEEN; <hi>Cuſtos Rotulorum</hi> of <hi>Dorcetſhire,</hi> and one of the Lords of his Majeſties moſt honourable PRIVY-COUNCIL.</p>
+            <p>By <hi>SAM<g ref="char:V">Ʋ</g>EL REYNER,</hi> M.A. and Rector of S<hi rend="sup">t</hi> 
+               <hi>Peters</hi> in <hi>Dorcheſter.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>William Churchill</hi> Bookſeller in <hi>Dorcheſter,</hi> MDCLXXX.</p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:96723:2"/>
+            <pb n="1" facs="tcp:96723:2"/>
+            <head>A SERMON Preached at the Funeral of the Right Honour<g ref="char:EOLhyphen"/>able <hi>Denzell</hi> Lord <hi>Holles,</hi> &amp;c. Who Deceaſed <hi>Feb.</hi> 17. 1679. And was Interred in S<hi rend="sup">t</hi> 
+               <hi>Peters</hi> Church in <hi>Dorcheſter, April</hi> 10. 1680. Aged 81 years, 3 months, and 16 days.</head>
+            <epigraph>
+               <bibl>
+                  <hi>Iſai. III. 1, 2, 3.</hi>
+               </bibl>
+               <q>
+                  <p>For behold, the Lord, the Lord of Hoſts doth take away from <hi>Jeruſalem,</hi> and from <hi>Judah,</hi> the ſtay and the ſtaff:</p>
+                  <p>The mighty man, and the man of war, the Judge, and the Prophet, and the Prudent, and the Ancient:</p>
+                  <p>The Captain of fifty, and the Honourable man, and the Counſellor, and the cunning Artificer, and the Eloquent Orator.</p>
+               </q>
+            </epigraph>
+            <p>IT is the great unhappineſs of the ge<g ref="char:EOLhyphen"/>nerality of the men of the World, that they know not how to ſet a due eſtimate
+<pb n="2" facs="tcp:96723:3"/>upon thoſe <hi>things</hi> and <hi>perſons,</hi> that God doth deſign to be bleſſings to them. For either they do idolize them, and ſet them up in the place of God; or elſe on the other ſide, they do too too much vilipend them, and are not thankful to the Almigh<g ref="char:EOLhyphen"/>ty, for that bleſſing and benefit they receive by them.</p>
+            <p>For the remedying of this double Evil, God is pleaſed to make uſe of a twofold method. To cure our over-valuing of ſuch Inſtruments, God is pleaſed to vilifie them, and to ſhow us the Emptineſs and Inſuffi<g ref="char:EOLhyphen"/>ciency that is in them to ſuſtain that Bur<g ref="char:EOLhyphen"/>then that we will needs lay upon them: <hi>Ceaſe ye from man whoſe breath is in his noſtrils, for wherein is he to be accounted of,</hi> Iſai. 2.22.</p>
+            <p>To cure us of (or if you will rather, to revenge upon us) our unthankfulneſs for them; God is pleaſed ſometimes, very un<g ref="char:EOLhyphen"/>ſeaſonably as unto us, to take them away, and deprive us of them: that ſo, by the miſchief that will inevitably attend their departure from us, we may be made to ac<g ref="char:EOLhyphen"/>knowledge the greatneſs of that Bleſſing, that God did deſign to afford us by them.</p>
+            <p>
+               <pb n="3" facs="tcp:96723:3"/>The Jewiſh Church and State were at this time verging towards ruine and de<g ref="char:EOLhyphen"/>ſtruction.
+<note place="margin">2 Chron. 36.16.</note> They had for a long time <hi>mocked the meſſengers of God, deſpiſed his words, miſuſed his Prophets;
+<note place="margin">Iſal. 29.21.</note> hated them that reproved them in the Gate;</hi> been unthankful for all thoſe means and methods of his Grace, that he had uſed towards them for their good.</p>
+            <p>And therefore God being now about to <hi>make</hi> a way for his <hi>Wrath:</hi>
+               <note place="margin">Pſa. 78.50.</note> He threatens by the Prophet, that he would re<g ref="char:EOLhyphen"/>move and take away all thoſe things, and Perſons (eſpecially) that had hitherto been their ſupport and ſtay, and that had ſtaved off ruine and deſtruction from them. For behold, <hi>the Lord, the Lord of Hoſts, doth take away,</hi> &amp;c.</p>
+            <p>The external Happineſs and Proſperity of every State, doth conſiſt in the Enjoy<g ref="char:EOLhyphen"/>ment of thoſe things and Perſons, that my Text hath reſpect unto, and which here God threatens to deprive <hi>Judah</hi> of, <hi>viz.</hi> the Abundance of thoſe things which are ne<g ref="char:EOLhyphen"/>ceſſary for the Conſervation of Life natu<g ref="char:EOLhyphen"/>ral; the military power and ſtrength that it hath to preſerve what is its own, and to
+<pb n="4" facs="tcp:96723:4"/>reſiſt thoſe that would invade our Rights; The Wiſdom of our Counſellers, the Inte<g ref="char:EOLhyphen"/>grity of thoſe that are to adminiſter Juſtice between man and man, <hi>&amp;c.</hi> To which if you add Good Prophets alſo to inſtruct us in the things of God; There is nothing then that is wanting on Gods part to be done, to make ſuch a People a Happy and flouriſhing People. And all this now God had done for the Jewiſh Nation; but by their Unthankfulneſs for, and Unworthy walking of ſo great mercies, they had provoked God to take them all from them again; which accordingly he threatens here in my Text to do; and that in ſuch a time too, wherein (of all others) they could worſt have ſpared them.</p>
+            <p>I ſhall not pretend to ſo much Curioſi<g ref="char:EOLhyphen"/>tie, as to go about to make any Nice (or at this time Needleſs) diviſion of the Text. Nor ſhall I ſo much as pretend to ſpeak to every particular in it, which might other<g ref="char:EOLhyphen"/>wiſe adminiſter ſufficient matter of profita<g ref="char:EOLhyphen"/>ble diſcourſe. It ſhall ſuffice, as that which is pertinent to the preſent occaſion, to re<g ref="char:EOLhyphen"/>commend only theſe two things from it, to your obſervation.</p>
+            <p>
+               <pb n="5" facs="tcp:96723:4"/>Firſt, That Great men in Great places, eſpecially if they be Good as well as Great, they are a great ſtay and ſupport to the Church and State wherein they are.</p>
+            <p>Secondly, That it is but a ſad Progno<g ref="char:EOLhyphen"/>ſtick of approaching Evils, when God takes them away at ſuch times and ſeaſons, when their longer abode amongſt us, is more than ordinarily neceſſary. An Ominous Preſage that,
+<note place="margin">Pſa. 78.50.</note> that God is then making a way for his Anger. Of theſe two I ſhall ſpeak very briefly, and promiſcuouſly.</p>
+            <p>When the Kings and Princes of <hi>Judah</hi> were to be led Captive and deſtroyed; it is then ſaid of whole <hi>Iſrael,</hi> that it was no longer <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>the Glory of all Lands</hi> as it is called <hi>Ezek.</hi> 20.6. But it was henceforth to be nothing but <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> and <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> a <hi>deſolation</hi> and <hi>aſtoniſhment,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>a Hiſſing and a Curſe, Jer.</hi> 25.18.</p>
+            <p>It is a Rueful Spectacle to ſee States and Kingdoms bereaved of ſuch perſons as were eminently ſerviceable to them in their Adminiſtrations. Eſpecially, when the State of their publick Affairs is ſuch that their ſervice is more neceſſary than
+<pb n="6" facs="tcp:96723:5"/>ever; Then all things run to Confuſion preſently.</p>
+            <p>It is a due Subordination of Princes and People, of Magiſtrates and Subjects, of Ru<g ref="char:EOLhyphen"/>lers and Ruled, that creates Glory to any State or Nation. When the King ſits in his Throne, environed with a <hi>wiſe</hi> and <hi>honour<g ref="char:EOLhyphen"/>able,</hi> with a <hi>faithful</hi> and <hi>religious Council,</hi> that like <hi>Mordecai,</hi>
+               <note place="margin">Eſth. 10.3.</note> do really ſeek the <hi>good</hi> and <hi>proſperity</hi> of the whole body politick. And when from thence <hi>Juſtice</hi> and <hi>Righteouſneſs</hi> flows down by the means of inferiour Ma<g ref="char:EOLhyphen"/>giſtrates, to all <hi>indifferently.</hi> And when there<g ref="char:EOLhyphen"/>upon the <hi>People</hi> love, and honour, and obey their <hi>Rulers:</hi> there is the moſt <hi>Glorious ſpe<g ref="char:EOLhyphen"/>ctacle</hi> that Earth affords.</p>
+            <p>Then, if ever, <hi>will our ſons be as Plants grown up in their Youth, and our Daughters as Corner-ſtones poliſhed after the ſimilitude of a Pa<g ref="char:EOLhyphen"/>lace.</hi> Then, in all likelyhood, when honeſt labour and <hi>induſtry</hi> is encouraged by thoſe that are in <hi>high Places, will our Barns be full, affording all manner of ſtore.</hi> Then, if ever, will be the time when we ſhall need to fear no <hi>breaking in</hi> from abroad, nor <hi>break<g ref="char:EOLhyphen"/>ing out</hi> from within our ſelves, nor <hi>hear any
+<pb n="7" facs="tcp:96723:5"/>complaining in our ſtreets.</hi> O happy are the <hi>People</hi> that are in ſuch a Caſe! But <hi>thrice happy</hi> then, if to all theſe they have that al<g ref="char:EOLhyphen"/>ſo, which follows in the <hi>Pſalm, if they have the Lord for their God,</hi> Pſa. 144.12, 13, 14, 15.</p>
+            <p>When God threatens that he would ſtretch out that <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> and thoſe <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> the <hi>Line of Confuſion, and thoſe ſtones of emptineſs</hi> upon <hi>Jeruſalem:</hi> he tells us withal, how he would bring that evil upon them; and it is thus. The <hi>Nobles</hi> ſhould be <hi>called to the Kingdom, and there ſhould be none there, and all her Princes ſhould be nothing.</hi> That is, there ſhould be no <hi>Princes,</hi> or <hi>Nobles</hi> left, that ſhould be <hi>fit</hi> to take the <hi>Rule</hi> and <hi>Govern<g ref="char:EOLhyphen"/>ment</hi> of the State upon them. And then he tells them, not <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>(Sarim)</hi> but <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>(Sirim)</hi> not <hi>Princes,</hi> but <hi>thorns,</hi> ſhould come up in her Palaces, not <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>(Chorim)</hi> but <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>(Cho<g ref="char:EOLhyphen"/>chim)</hi> not <hi>Nobles but Brambles in the Fortreſſes thereof,</hi> and it ſhould be <hi>an habitation for Dra<g ref="char:EOLhyphen"/>gons, and a Court for Owls,</hi> Iſai. 34.11, 12. When the Church makes that ſad com<g ref="char:EOLhyphen"/>plaint, <hi>Lam.</hi> 2.1, 2. <hi>that the Lord had to ver<g ref="char:EOLhyphen"/>ed the Daughter of</hi> Zion <hi>with a Cloud, and that
+<pb n="8" facs="tcp:96723:6"/>he had caſt down from heaven to the Earth</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>the Beauty of</hi> Iſrael: in the ſixth Verſe, the Prophet tells us, when all this miſery did commence; <hi>viz.</hi> when God had <hi>deſpiſed in the indignation of his anger,</hi> both <hi>the King and the Prieſt,</hi>
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> or Prince. God is the God of <hi>Order,</hi> and not of <hi>Confuſion,</hi> and when he intends to preſerve the Beauty, and Order, and Ornament of any Nation, he will then with his own right hand ſu<g ref="char:EOLhyphen"/>ſtain thoſe Pillars of it, that are its <hi>Orna<g ref="char:EOLhyphen"/>ment.</hi>
+            </p>
+            <p>But then as I ſaid, Great men in high places, eſpecially if <hi>good men too,</hi> they are the ſtrength and ſtability, the <hi>ſtay</hi> and <hi>ſup<g ref="char:EOLhyphen"/>port</hi> of the Church and State wherein they are. What the <hi>Poets</hi> feigned of their <hi>Atlas,</hi> that he ſuſtained the Heavens upon his ſhoulders; is in a ſober ſenſe true of the <hi>Great and Noble men</hi> of the Earth, (ſuppoſing them Religious withal) that are in place of <hi>Power.</hi> They, under God, do ſuſtain the World. The Burthen of Church and State lies upon their Shoulders, and like the ſtrong Pillars of an Houſe, they keep up all <hi>from Ruine.</hi>
+            </p>
+            <p>
+               <pb n="9" facs="tcp:96723:6"/>And when God in his righteous judg<g ref="char:EOLhyphen"/>ment ſuffers ſuch <hi>Pillars</hi> once to be <hi>pulled down;</hi> it is not long before all things in Church and State will run to <hi>Confuſion,</hi> as we lately found in this poor Kingdom, by ſad Experience.</p>
+            <p>When there was <hi>no King in Iſrael,</hi> then every one did that which <hi>was right in his own Eyes.</hi> Marvail not then,
+<note place="margin">Judg. 17.5, 6.</note> if you find ſome <hi>Micah</hi> or other, even with an <hi>whole Houſe full of Gods:</hi> when once the <hi>Buttreſſes</hi> of Church and State are pulled down; men grow <hi>wondrouſly religious</hi> then preſently. Then, if there be any need of any, you may find <hi>Prieſts</hi> in every Corner; Or if not, yet every one hath the power of <hi>Ordi<g ref="char:EOLhyphen"/>nation</hi> in his own hands. Any of his Sons or Servants, may be <hi>conſecrate</hi> to that <hi>office,</hi> when he pleaſeth. And none ſhall be found ſo <hi>vile,</hi> but he ſhall be accounted <hi>worthy enough</hi> to diſcharge the <hi>moſt ſacred ſer<g ref="char:EOLhyphen"/>vices</hi> of the Sanctuary.</p>
+            <p>When there is once <hi>no King in Iſrael,</hi>
+               <note place="margin">Judg. 18.17, 18. Judg. 18.27. Judg. 19.24, 25.</note> no marvail then, to hear of many <hi>Micahs</hi> Hou<g ref="char:EOLhyphen"/>ſes robbed; many <hi>Laiſhes</hi> plundered and undone; many <hi>Wives</hi> and <hi>Daughters raviſh<g ref="char:EOLhyphen"/>ed;</hi>
+               <pb n="10" facs="tcp:96723:7"/>many great and mighty Families like that of <hi>Benjamin,</hi>
+               <note place="margin">Judg. 20.48.</note> brought to ruine. All theſe things were once done in <hi>Iſrael,</hi> when there was no <hi>King</hi> there, but every one did that which was <hi>Right in his own Eyes.</hi> That <hi>Right,</hi> was <hi>ſummum jus,</hi> no doubt. And all theſe things were once done in <hi>England</hi> too, God grant they may never be done ſo again; when there was no <hi>King</hi> nor <hi>Nobles</hi> left to ſit at the Stern: but all thoſe <hi>Pillars</hi> of Church and State were pul<g ref="char:EOLhyphen"/>led down, which ſhould have <hi>kept</hi> up <hi>both</hi> from ſuch Confuſions.</p>
+            <p>Indeed, every way great is the bleſſing and benefit of <hi>good men</hi> in great <hi>Places.</hi> For</p>
+            <p>Firſt, Such will be careful, even out of <hi>Conſcience,</hi> to preſerve the <hi>just Rights</hi> and <hi>Liberties</hi> of thoſe that are of inferiour <hi>Qua<g ref="char:EOLhyphen"/>lity;</hi> and to break the <hi>Teeth of Oppreſſors.</hi> And there is nothing in the World that hath a more <hi>Natural Tendency</hi> towards the <hi>general</hi> Ruine of any Nation, than the <hi>Inva<g ref="char:EOLhyphen"/>ſion</hi> of the <hi>juſt Rights</hi> and <hi>Liberties</hi> of the <hi>Populacy;</hi> and when <hi>Oppreſſors</hi> can, with<g ref="char:EOLhyphen"/>out fear of <hi>Puniſhment, grind the faces</hi> of
+<pb n="11" facs="tcp:96723:7"/>thoſe that are of <hi>inferiour rank.</hi>
+            </p>
+            <p>For this naturally begets <hi>Hatred</hi> and <hi>Re<g ref="char:EOLhyphen"/>venge</hi> in thoſe that <hi>ſuffer wrong,</hi> againſt thoſe that <hi>do it.</hi> Beſides, this naturally be<g ref="char:EOLhyphen"/>gets <hi>murmuring</hi> and <hi>Repining</hi> againſt the <hi>Higher Powers;</hi> and men look upon them no longer as the <hi>Protectors</hi> and <hi>Defenders</hi> of their <hi>Rights</hi> and <hi>Liberties</hi> (as by the Laws of God and man they ought to be) but as ſo many <hi>Favourers</hi> or <hi>Abettors</hi> at leaſt, if not the <hi>Authors</hi> and <hi>Contrivers</hi> of their mi<g ref="char:EOLhyphen"/>ſeries.</p>
+            <p>And theſe <hi>Diſcontents</hi> now, are nothing elſe but the <hi>Seeds</hi> of Sedition ſowen in mens minds, which when they have been once ſufficiently <hi>heated</hi> by <hi>mutual complaints,</hi> there wants nothing but <hi>opportunity</hi> to <hi>chip</hi> them, and then immediately they <hi>ſpring up</hi> into <hi>open Rebellion,</hi> which puts all to the <hi>utmoſt Hazzard.</hi>
+            </p>
+            <p>But now, when <hi>good men</hi> ſtand at the <hi>Princes Elbow,</hi> ready to receive the com<g ref="char:EOLhyphen"/>plaints of the <hi>oppreſſed,</hi> and to <hi>do them right;</hi> and to <hi>brow-beat,</hi> and (if that will not do) to break the teeth and arms of ſuch <hi>ſons of violence:</hi> this both prevents that wrong and
+<pb n="12" facs="tcp:96723:8"/>injury that would otherwiſe be done, con<g ref="char:EOLhyphen"/>ſerves peace and friendſhip between man and man, and both <hi>conciliates</hi> and <hi>confirms</hi> that Love and honour, that fear and Reve<g ref="char:EOLhyphen"/>rence, that is due from the <hi>Subject</hi> to the <hi>Soveraign Powers.</hi>
+            </p>
+            <p>Secondly, <hi>Good men</hi> in <hi>great places,</hi> they do as much good by their <hi>Example,</hi> as they do by their <hi>Power</hi> and <hi>Intereſt. Vertue</hi> and <hi>Vice,</hi> the <hi>one</hi> is the <hi>Preſervative,</hi> the <hi>other</hi> is the <hi>Bane</hi> and <hi>Deſtruction</hi> of States and King<g ref="char:EOLhyphen"/>doms. And every one knows that the <hi>one</hi> of theſe <hi>(Vertue)</hi> is encouraged; the <hi>other (Vice)</hi> is diſcouraged and daſh'd out of countenance, much more by the <hi>Example</hi> of thoſe that are in power, than by all the wholſome <hi>Laws</hi> that the wit of man can deviſe to make — <hi>Non ſic inflectere ſenſus</hi> Humanos <hi>edicta valent, ut</hi> Vita Regen<g ref="char:EOLhyphen"/>tûm.</p>
+            <p>In all Ages of the World, the <hi>Rationes boni &amp; mali,</hi> have been the ſame. Ever ſince <hi>Moſes</hi>'s time to this moment, the <hi>Decalogue</hi> hath been the conſtant ſtanding rule of our <hi>Obedience;</hi> and thoſe Laws have the ſame Authority, and the ſame <hi>Sanction</hi>
+               <pb n="13" facs="tcp:96723:8"/>now, that they had <hi>at firſt.</hi> But in all Ages, you may obſerve, that mens carriage and deportment towards them have been <hi>diffe<g ref="char:EOLhyphen"/>rent,</hi> according to the <hi>Example</hi> that hath been given them, by thoſe that were in the <hi>higheſt places.</hi>
+            </p>
+            <p>If the <hi>Kings</hi> of <hi>Iſrael</hi> and <hi>Judah</hi> would be <hi>Idolaters;</hi> why ſo would the <hi>moſt</hi> of <hi>their Subjects</hi> be too. But if <hi>they</hi> were careful to walk before the Lord in their integrity, their <hi>People</hi> then would keep ſome <hi>tolerable decorum</hi> in <hi>their manners</hi> alſo.</p>
+            <p>There is but <hi>one inſtance</hi> only to the contrary, that doth at preſent occur to my thoughts; and that was in good <hi>Hezekiah</hi>'s time. Which, by the way, lets you ſee, how <hi>neceſſary</hi> it is to the <hi>well-being</hi> of any Nation, that not only the <hi>Prince</hi> himſelf be good and vertuous, but that his <hi>Nobles</hi> be ſo too. Otherwiſe his ſingle goodneſs and uprightneſs may not be able to ſtave off judgments from his people: and conſe<g ref="char:EOLhyphen"/>quently, we may learn hence, what a <hi>Bleſſing</hi> great men may be (the <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> I mean, though they be not the <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> the greateſt of all) if they be ſuch as they
+<pb n="14" facs="tcp:96723:9"/>ſhould be. And on the other ſide, what a <hi>Plague</hi> and <hi>Peſt</hi> they may be to the <hi>Community,</hi> when the good Prince, for want of <hi>Better,</hi> is forced to make uſe of them.</p>
+            <p>I ſay the Inſtance, that I was ſpeaking of, is in good <hi>Hezekiah</hi>'s time. Who, though he himſelf was one of the <hi>beſt Kings</hi> that ever ſwayed the <hi>Jewiſh Scepter:</hi> yet he was yoaked with ſuch a Company of <hi>Princes</hi> and <hi>Nobles,</hi> as ſcarce a worſe <hi>Character</hi> can be given to <hi>any,</hi> than that is which is given <hi>them, Mic.</hi> 3.9, 10, 11. They did <hi>abhor judgment,</hi> and <hi>pervert all equity;</hi> they <hi>built up</hi> Zion <hi>with blood, and</hi> Jeruſalem <hi>with iniquity. The heads thereof did judge for reward, the Prieſts thereof did teach for hire, and the Prophets thereof did divine for money.</hi> No marvail therefore at that which follows. <hi>Therefore ſhall</hi> Zion <hi>for your ſake be plowed as a field, and</hi> Jeruſalem <hi>ſhall become heaps, and the mountain of the houſe as the high places of the forreſt.</hi> And if you ask me how I know this was in <hi>Hezekiah</hi>'s time; why the Prophet <hi>Jeremy</hi> tells me ſo, <hi>Jer.</hi> 26.18.</p>
+            <p>
+               <pb n="15" facs="tcp:96723:9"/>Beſides, thirdly, God is pleaſed <hi>ſometimes</hi> to <hi>prorogue</hi> and put off the <hi>executions</hi> of his judgments upon ſinful Nations, which are otherwiſe <hi>ripe enough</hi> for ruine, for the ſake of ſome <hi>few</hi> of thoſe that fear his name, eſpecially if thoſe perſons be ſuch as be <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>;
+<note place="margin">1 Tim. 2.2.</note> ſuch as have <hi>power</hi> in <hi>their hands</hi> and <hi>zeal</hi> enough in their <hi>hearts</hi> to do ſer<g ref="char:EOLhyphen"/>vice for him <hi>anſwerable</hi> to <hi>their Power.</hi> The <hi>Sodomites</hi> were <hi>ripe</hi> for ruine, when as yet God would have ſpared them, if there could but have been found <hi>ten</hi> righteous men amongſt them. And the <hi>deſtroying Angels,</hi> we know, could not <hi>execute</hi> that <hi>commiſſion</hi> that they had againſt them, <hi>till righteous Lot</hi> was removed from them, <hi>Gen.</hi> 19.22.</p>
+            <p>Nay a time there was, when <hi>one ſuch good man,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, that could, and would have executed judgment for God; would have ſaved the City of <hi>Jeruſalem</hi> from de<g ref="char:EOLhyphen"/>ſtruction, <hi>Jer.</hi> 5.1. Some <hi>good men</hi> there were in <hi>Jeruſalem</hi> at that time, there is no doubt. It is more than probable that <hi>Je<g ref="char:EOLhyphen"/>remy</hi> himſelf and <hi>Baruch</hi> were there. But alas! they were poor <hi>Underlings,</hi> men of
+<pb n="16" facs="tcp:96723:10"/>inferiour rank, that had little or no <hi>Power</hi> and <hi>Intereſt.</hi> Alas! they could not <hi>defend themſelves</hi> from the wrongs and injuries that were done unto them; much leſs could they <hi>avenge</hi> upon others, thoſe <hi>daring abominations</hi> of theirs, that were <hi>haling</hi> Gods Judgments down upon Church and State.</p>
+            <p>If there had been but a <hi>few</hi> ſuch men among them, that could and would have <hi>executed judgment</hi> for God, as <hi>Phinehas</hi> did: they might have done more towards the <hi>reſcuing</hi> of all from ruine, than a great ma<g ref="char:EOLhyphen"/>ny <hi>Jeremies</hi> and <hi>Baruchs</hi> could do.</p>
+            <p>They, like <hi>Noah, Daniel,</hi> and <hi>Job,</hi> might deliver <hi>their own ſouls by their Righteouſneſs (Ezek.</hi> 14.20.) But it muſt be ſome <hi>Phi<g ref="char:EOLhyphen"/>nehas</hi> or other, ſome one or other <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, that by <hi>executing judgment</hi> for God upon his Enemies, muſt be able to <hi>ſtay a pub<g ref="char:EOLhyphen"/>lick Plague.</hi>
+            </p>
+            <p>The <hi>Pſalmiſt</hi> tells us, that there was a time, when God was ſo far provoked a<g ref="char:EOLhyphen"/>gainſt <hi>Iſrael,</hi> upon their making of the <hi>Molten Calf;</hi> that he was even <hi>reſolved</hi> up<g ref="char:EOLhyphen"/>on their deſtruction. And had certainly
+<pb n="17" facs="tcp:96723:10"/>brought it upon them, had <hi>not</hi> Moſes <hi>his choſen ſtood before him in the breach, to turn away his wrath, leſt he ſhould deſtroy them, Pſa.</hi> 106.23. Ay, here is a <hi>man of God</hi> indeed, (as <hi>Moſes</hi> is called <hi>Deut.</hi> 33.1.) here is a <hi>man of God</hi> indeed I ſay, that can hold the <hi>hands of the Almighty,</hi> that can dare to put himſelf into the <hi>Breach,</hi> even when <hi>Heaven it ſelf</hi> is making the <hi>Aſſault.</hi>
+               <note place="margin">Gen. 32.28.</note> One that is ſuch an <hi>Iſrael</hi> and <hi>Prince with God,</hi> hath ſuch <hi>Power with him,</hi> and <hi>Intereſt</hi> in him: <hi>ut non niſi</hi> Moſis <hi>permiſſuiraſci poſſit Deus,</hi> God cannot puniſh a <hi>Rebellious people,</hi> over <hi>whom</hi> Moſes <hi>is ſet</hi> (I ſpeak it with reverence) be<g ref="char:EOLhyphen"/>fore he have, as it were, <hi>asked</hi> Moſes<hi>'s leave</hi> to do ſo. For ſo you find he beſpeaks him; <hi>Let me alone</hi> (ſaith he) <hi>that my wrath may wax hot againſt them, that I may conſume them, Exod.</hi> 32.10.</p>
+            <p>I have now done with my Text; and I ſhall eaſe you of the trouble of a longer attendance here, when I have ſpoken <hi>two words</hi> more. One of that <hi>Honourable perſon</hi> whoſe Corps is brought hither now to be <hi>Interred;</hi> the other to you eſpecially of the higher Quality, who are mournful
+<pb n="18" facs="tcp:96723:11"/>
+               <hi>Attendants</hi> upon this ſad Solemnity.</p>
+            <p>For the firſt, It was mine unhappineſs (I confeſs) that I was one that had but very little perſonal Acquaintance with this <hi>Noble Lord</hi> deceaſed. And that which adds to it, is this, that I have received no <hi>Inſtru<g ref="char:EOLhyphen"/>ctions</hi> (no, none in the <hi>leaſt</hi>) very neceſſary you will all judge, upon ſuch an <hi>Occaſion,</hi> I have received no Inſtructions I ſay, from thoſe that had opportunity of knowing him better. Some of whom might have been ſo kind if they had pleaſed, as to have imparted <hi>ſome</hi> at leaſt of their Obſer<g ref="char:EOLhyphen"/>vations to me. For the want of which therefore, it will be but a very <hi>lame</hi> and <hi>imperfect account,</hi> that I ſhall be able to give you, either of him or his <hi>Actings;</hi> unleſs any man will be ſo <hi>unreaſonable</hi> as to ex<g ref="char:EOLhyphen"/>pect, that I ſhould ſpeak either by <hi>Fiction,</hi> which in truth is <hi>beneath me,</hi> or elſe by <hi>Inſpi<g ref="char:EOLhyphen"/>ration</hi> which is as much <hi>above me.</hi>
+            </p>
+            <p>Yet as the Sun in the Firmament caſts forth ſuch a brightneſs by his Rayes, as that there is <hi>none</hi> but is enforced to take <hi>ſome notice</hi> of it, though they cannot ſo well <hi>Philoſophize</hi> about it, as ſome others can,
+<pb n="19" facs="tcp:96723:11"/>that have made it the ſubject of <hi>their ſtu<g ref="char:EOLhyphen"/>dies:</hi> So this <hi>Honourable</hi> perſon, whoſe Corps lies here before us, did move in ſuch an <hi>Orb,</hi> and did <hi>ſhine</hi> with ſo much <hi>Brightneſs</hi> in it; as that no one can be ſuch a ſtranger in this our <hi>Iſrael,</hi> but he muſt of neceſſity, have heard <hi>ſomething</hi> of his <hi>Fame.</hi>
+            </p>
+            <p>His Birth and Parentage was Noble and Honourable; he being a ſecond ſon of the Illuſtrious Houſe of <hi>Clare.</hi> And that is ſome <hi>Incentive</hi> to honourable underta<g ref="char:EOLhyphen"/>kings, to derive ones Pedegree from ho<g ref="char:EOLhyphen"/>nourable and vertuous <hi>Anceſtors.</hi> A great and <hi>noble mind</hi> will ſcorn to diſhonour <hi>them</hi> ſo far, as to <hi>debaſe</hi> it ſelf to unworthy Act<g ref="char:EOLhyphen"/>ings.</p>
+            <p>My Lord was <hi>Noble</hi> by <hi>Birth,</hi> and no doubt he knew it, and did ſet a <hi>due eſtimate</hi> upon it. But withal he knew, that <hi>Nobi<g ref="char:EOLhyphen"/>lity by Patent</hi> alone, it was but <hi>Nobility in Parchment.</hi> And that a man of <hi>true honour,</hi> muſt have ſomething <hi>more</hi> to make him <hi>honourable,</hi> than meerly his Princes <hi>Favour</hi> or <hi>Fancy.</hi>
+            </p>
+            <p>He was careful therefore to ſtore his
+<pb n="20" facs="tcp:96723:12"/>mind with all <hi>ſoul-ennobling vertues;</hi> that ſo he might <hi>reflect</hi> a <hi>greater</hi> honour upon his Family, than that was which he <hi>received from it.</hi> And that when it ſhould come to his own turn, his Prince might not ſet his <hi>Seal</hi> upon a <hi>Blank;</hi> but the <hi>Honour</hi> that he ſhould confer upon him, it ſhould be as well the <hi>Reward</hi> of his own <hi>Deſert,</hi> as the <hi>Token</hi> and <hi>Pledge</hi> of his <hi>Princes Kindneſs.</hi>
+            </p>
+            <p>And that is <hi>true honour</hi> indeed; that which being beſtowed commends the <hi>judgment</hi> of the Prince, more than his <hi>Fancy,</hi> and makes the <hi>World</hi> to know, that he un<g ref="char:EOLhyphen"/>derſtands how to <hi>value men</hi> not by their <hi>fine Cloaths,</hi> or their <hi>handſom faces,</hi> or by the <hi>Re<g ref="char:EOLhyphen"/>commendation</hi> of other <hi>Grandees:</hi> but by their own <hi>real worth</hi> and <hi>vertue.</hi> So that indeed, ſuch a perſon advanced to <hi>honour</hi> by his <hi>Prince,</hi> he doth at the ſame time <hi>advance his Princes honour,</hi> and not only <hi>receives,</hi> but <hi>gives it.</hi>
+            </p>
+            <p>About 23 years old, in King <hi>James</hi>'s time, he was Choſen a Member of Par<g ref="char:EOLhyphen"/>liament, for a Town in <hi>Cornwall,</hi> and after his being Married unto the Daughter and Heireſs Apparent of Sir <hi>Francis Aſhly,</hi> of
+<pb n="21" facs="tcp:96723:12"/>this County, he was in four ſeveral Parlia<g ref="char:EOLhyphen"/>ments Choſen Principal <hi>Burgeſs</hi> for this Town of <hi>Dorcheſter.</hi> But indeed, the ho<g ref="char:EOLhyphen"/>nour that we did him by chuſing of him, was not comparable to that honour he did us, in <hi>accepting</hi> of our <hi>Choice.</hi> The Prudence and Wiſdom, that he always manifeſted in thoſe Aſſemblies; The conſtant zeal that he had for his Princes <hi>true Intereſt</hi> (though not always rightly underſtood) and for the <hi>Liberties</hi> of his <hi>Country;</hi> his conſtant <hi>oppoſi<g ref="char:EOLhyphen"/>tion</hi> againſt all <hi>Innovations</hi> in the Church, and againſt any thing that looked like a publick <hi>Grievance</hi> in the Common-weal: It did not only create him Honour and Renown among all <hi>good Proteſtants,</hi> and <hi>good Patriots;</hi> but it did derive <hi>ſome Honour</hi> alſo upon <hi>this Place;</hi> as making the World to know, that <hi>We</hi> alſo had ſome <hi>ſentiments</hi> of thoſe vertues in <hi>our ſelves,</hi> for the ſake of which we ſo conſtantly made choice of <hi>him.</hi>
+            </p>
+            <p>He had once the unhappineſs indeed, to fall under his Princes <hi>Diſpleaſure;</hi> and yet none need much to wonder at it; ſince Kings ſee with <hi>other mens Eyes,</hi> and <hi>hear with
+<pb n="22" facs="tcp:96723:13"/>other mens Ears;</hi> and there never want thoſe about the Courts of Princes who do envy and <hi>traduce</hi> that vertue in <hi>others,</hi> that they cannot, or will not imitate <hi>themſelves.</hi> It is likely that ſome ſuch perſons had <hi>miſrepre<g ref="char:EOLhyphen"/>ſented</hi> Mr. <hi>Holles</hi> to the King that then was; which might be the occaſion of that <hi>ſhort diſpleaſure</hi> that was conceived againſt him. But that <hi>Excellent Prince</hi> was too wiſe to be long <hi>impoſed</hi> upon; and it ſeems did quickly find <hi>cauſe</hi> to ſurceaſe any farther proſecution of that diſpleaſure.</p>
+            <p>This I am certain of, that it was not long before Mr. <hi>Holles</hi> gave ſuch Teſtimo<g ref="char:EOLhyphen"/>ny of his <hi>Loyalty</hi> to his Prince, that the <hi>An<g ref="char:EOLhyphen"/>timonarchical</hi> Party that then carried all be<g ref="char:EOLhyphen"/>fore them in the Houſe of Commons, quickly found that he was not for <hi>their Pur<g ref="char:EOLhyphen"/>poſe;</hi> and therefore <hi>turned him out of Doors.</hi> Yea, (if I be not miſtaken) they made the Land of his Nativity <hi>too hot</hi> to <hi>hold him,</hi> as thinking that they could not ſit ſecure in their <hi>Uſurped Thrones,</hi> till they had got the <hi>Seas</hi> between <hi>themſelves</hi> and <hi>him.</hi>
+            </p>
+            <p>What his particular <hi>Agency</hi> was in the happy Reſtauration of his Majeſty that
+<pb n="23" facs="tcp:96723:13"/>now is, I am not able to declare. But the King it ſeems was ſo <hi>well acquainted</hi> with it, and had ſuch a <hi>grateful Remembrance</hi> of it: as that he thought that <hi>Orb</hi> that hitherto Mr. <hi>Holles</hi> had moved in, was <hi>too low,</hi> and <hi>too little,</hi> for a ſtar of <hi>his magnitude and influ<g ref="char:EOLhyphen"/>ence,</hi> and therefore advanced him into an <hi>Higher;</hi> firſt making him a <hi>Peer</hi> of the <hi>Realm,</hi> then taking him into his <hi>Honourable Privy-Council;</hi> and two ſeveral times em<g ref="char:EOLhyphen"/>ploying him as his <hi>immediate Repreſentative</hi> to <hi>foreign</hi> States and Princes. Where he diſ<g ref="char:EOLhyphen"/>charged his Truſt with that <hi>Prudence</hi> and <hi>diſcretion,</hi> and yet with that <hi>State</hi> and <hi>Gran<g ref="char:EOLhyphen"/>deur,</hi> as created him <hi>Honour</hi> at <hi>home,</hi> and <hi>Admiration</hi> from <hi>abroad.</hi>
+            </p>
+            <p>One Inſtance of the <hi>Greatneſs</hi> of his mind I cannot chuſe but remember. It is repor<g ref="char:EOLhyphen"/>ted of him, that when he was on his <hi>Em<g ref="char:EOLhyphen"/>baſſy</hi> in <hi>France,</hi> at his departure from thence, that <hi>King</hi> did offer him very rich and noble preſents; which yet he abſolutely refuſed to receive: as <hi>ſcorning</hi> to accept any <hi>perſonal Kindneſs</hi> from <hi>thoſe hands,</hi> from which <hi>his Maſter,</hi> he thought, could not obtain <hi>ju<g ref="char:EOLhyphen"/>ſtice.</hi> A piece of <hi>ſelf-denying Grandeur</hi> this,
+<pb n="24" facs="tcp:96723:14"/>that, I think, cannot be often paral<g ref="char:EOLhyphen"/>lell'd.</p>
+            <p>Let me add to all this, and <hi>above</hi> all this, that he was one that was as <hi>faithful</hi> to his <hi>God,</hi> as he was to his <hi>King</hi> and <hi>Country.</hi> One that ſtuck cloſe to the <hi>Reformed Religion,</hi> un<g ref="char:EOLhyphen"/>derſtood its Principles, <hi>well</hi> and <hi>thoroughly,</hi> profeſſed and propugned them <hi>publickly,</hi> practiſed them <hi>Conſcientiouſly,</hi> lived and died in it, and if he had been called to it, no doubt would have <hi>died for it.</hi>
+            </p>
+            <p>He was naturally of as high a ſpirit as the moſt <hi>daring Gallants</hi> of them all; but yet he thought it not <hi>beneath him</hi> (as ſome others do) upon his bended Knees daily to worſhip that God that made him. He would ſome times have thought ſcorn to <hi>run away</hi> from the proudeſt piece of <hi>morta<g ref="char:EOLhyphen"/>lity</hi> that treads on Earth, but he could ne<g ref="char:EOLhyphen"/>ver underſtand it to be any piece of valour or <hi>Gallantry,</hi> to <hi>run upon</hi> the Almighty.</p>
+            <p>Prayers, and Tears, and Supplications, theſe he thought the moſt proper way of addreſſing himſelf by, to the eternal God; but could never underſtand either the Va<g ref="char:EOLhyphen"/>lour or the Courtſhip of thoſe <hi>Fools</hi> and
+<pb n="25" facs="tcp:96723:14"/>
+               <hi>Madmen</hi> (as he accounted them) that could <hi>dare</hi> the Almighty himſelf to <hi>Damn</hi> them.</p>
+            <p>In a word, look upon him which way you will, either as a <hi>Counſeller</hi> to his <hi>Prince,</hi> or as a <hi>Patriot</hi> to his <hi>Country,</hi> or as a <hi>Chriſtian</hi> towards <hi>God:</hi> he was one, that in a moſt <hi>inauſpicacious time</hi> (as unto us) was taken from us. <hi>We</hi> of this <hi>Place</hi> (if it had been the will of God it ſhould be otherwiſe) could ill have ſpared his <hi>Patronage,</hi> whom we found always ready upon all occaſions, to do us what good he could. The King, I am afraid, at this time eſpecially, could ill have ſpared his <hi>Counſel;</hi> and the Church and State I am ſure, at this <hi>juncture</hi> of <hi>Af<g ref="char:EOLhyphen"/>fairs,</hi> could very ill have ſpared that <hi>ſupport,</hi> that <hi>both</hi> very reaſonably might have ex<g ref="char:EOLhyphen"/>pected from him.</p>
+            <p>But what ſhall we ſay? he had ſerved his Generation according to the will of God. And God ſaw it time for him now to receive the <hi>Reward</hi> of all his Services, and therefore took him unto himſelf. I ſhall con<g ref="char:EOLhyphen"/>clude all, in applying to him thoſe words that are ſpoken of holy <hi>David,</hi> 1 <hi>Chron.</hi> 29.28. <hi>He died in a good old age, full of days, and
+<pb n="26" facs="tcp:96723:15"/>riches, and honour.</hi> And having thus brought him to his <hi>Bed,</hi> we ſhall ſoftly <hi>draw the Curtains</hi> about him, and leave him to an <hi>Eternal Reſt.</hi>
+            </p>
+            <p>I have only one word more to add to you right Worſhipful Gentlemen, who have done him the honour to attend upon his Obſequies. And it is only to beſeech you, according to the Capacities you are in at <hi>Preſent,</hi> or that you may be called to be in at any time <hi>hereafter,</hi> that you would endeavour to <hi>imitate</hi> that Example that he hath ſet you, and to ſupply his place. By the <hi>fall</hi> of <hi>this great</hi> and <hi>good man,</hi> there is a great <hi>Breach</hi> made in the <hi>Fence</hi> of our Church and State; if ſome or other do not fill up the <hi>Vacuum,</hi> God knows how ſoon deſtruction may break in upon us.</p>
+            <p>I remember when I was a Boy at the Univerſity, it went <hi>currant</hi> then among us for <hi>true Philoſophy,</hi> that when a Member or part of a man body was cut off; then <hi>Ani<g ref="char:EOLhyphen"/>ma retrahitur</hi> we ſaid, the <hi>ſoul</hi> was not <hi>divi<g ref="char:EOLhyphen"/>ded</hi> or cut off with that member, but it was <hi>retracted</hi> to the <hi>remaining parts.</hi>
+            </p>
+            <p>I wiſh with all my heart, for your own
+<pb n="27" facs="tcp:96723:15"/>ſakes, and for the ſake of the Church and State wherein we all live, that <hi>no one</hi> of all thoſe Vertues that were ſo <hi>conſpicuous</hi> in this <hi>Noble Lord</hi> deceaſed, may <hi>die</hi> with him, but that they may be all <hi>Retracted</hi> into his <hi>only Son</hi> and <hi>Heir,</hi> the noble <hi>Lord Holles</hi> that now is; (As he inherits his Fathers <hi>Lands</hi> and <hi>Honours,</hi> ſo may he <hi>inherit</hi> all <hi>his Vertues</hi> too, and if it be poſſble, may a <hi>double Por<g ref="char:EOLhyphen"/>tion</hi> of his Fathers Spirit reſt upon him) and into <hi>You</hi> alſo, Right Worſhipful and belo<g ref="char:EOLhyphen"/>ved, who were his <hi>Friends</hi> and <hi>Admirers;</hi> that <hi>You</hi> alſo may ſerve <hi>Your Generation</hi> by the will of God, as he hath done before you.</p>
+            <p>Which if you will be careful to do, all <hi>good men</hi> will love and honour you while you live, and will <hi>heartily</hi> lament you when you are <hi>dead.</hi> Your Executors ſhall not need then to <hi>hire</hi> any <hi>Hackney Tears</hi> to be<g ref="char:EOLhyphen"/>ſprinkle upon Your <hi>Herſes,</hi> nor to <hi>tole</hi> men on by <hi>Rings</hi> or <hi>Ribbands,</hi> to attend your <hi>Fu<g ref="char:EOLhyphen"/>nerals.</hi> But <hi>good men</hi> will flock together out of <hi>Conſcience,</hi> not to perform a <hi>Ceremony,</hi> but to <hi>pay a Duty.</hi> And though perhaps the <hi>tenth part</hi> of the Company may not be in
+<pb n="28" facs="tcp:96723:16"/>
+               <hi>Blacks,</hi> yet they will be <hi>all in Mourning.</hi>
+            </p>
+            <p>But at the ſame time, when there is ne<g ref="char:EOLhyphen"/>ver ſo much <hi>grief</hi> and <hi>ſorrow</hi> upon your ac<g ref="char:EOLhyphen"/>count <hi>here on Earth,</hi> there will be full as great <hi>joy</hi> and <hi>rejoycing</hi> in <hi>Heaven.</hi> And be<g ref="char:EOLhyphen"/>fore your Friends ſhall have laid that which is <hi>mortal</hi> of you into your <hi>Graves,</hi> the holy Angels will have carried your <hi>Souls</hi> up into <hi>Heaven,</hi> with Joy and Triumph.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:96723:16"/>
+         </div>
+      </body>
+   </text>
+</TEI>
